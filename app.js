@@ -18,6 +18,6 @@
 	  }
       
 	  const hide = ()=>{
-		    // console.log(clickCount);
+		    console.log('HELLO WORLD !');
 			form_section.classList.remove("active");
 	  }
