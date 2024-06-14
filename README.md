@@ -5,6 +5,7 @@
 ```javascript
 
 
+
 	  const form_section = document.querySelector(".form_section"),
 	        registerForm = document.querySelector("#reg-box"),
 	        loginForm = document.querySelector("#login-box");
@@ -27,5 +28,7 @@
 		    // console.log(clickCount);
 			form_section.classList.remove("active");
 	  }
+
+
 
 ```
