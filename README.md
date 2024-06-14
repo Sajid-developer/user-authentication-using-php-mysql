@@ -1,6 +1,6 @@
 # User-authentication-using-php-mysql-DB
 
-## PROJECT CODE
+## JAVASCRIPT CODE
 
 ```javascript
 
@@ -33,7 +33,7 @@
 
 ```
 
-Php Code
+### PHP CODE
 
 ```php
 
