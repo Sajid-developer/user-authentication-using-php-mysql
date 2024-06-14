@@ -1,6 +1,6 @@
 # User-authentication-using-php-mysql-DB
 
-<a href="https://github.com/Sajid-developer/">visit my profile</a>
+<a href="https://github.com/Sajid-developer/">Click here to visit my profile</a>
 
 ### JAVASCRIPT CODE
 
