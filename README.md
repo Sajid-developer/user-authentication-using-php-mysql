@@ -1,6 +1,6 @@
 # User-authentication-using-php-mysql-DB
 
-## JAVASCRIPT CODE
+### JAVASCRIPT CODE
 
 ```javascript
 
